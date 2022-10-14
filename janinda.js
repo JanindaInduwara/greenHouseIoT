@@ -5,7 +5,5 @@ const app =() => {
         console.log('gg...')
 
     }
-    else{
-        console.log('')
-    }
+   
 }
