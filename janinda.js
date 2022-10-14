@@ -5,5 +5,9 @@ const app =() => {
         console.log('gg...')
 
     }
+
+    while(bhhh){
+
+    }
    
 }
